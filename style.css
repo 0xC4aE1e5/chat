@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+body, input {
+    font-family: 'Segoe UI', Roboto;
+}
+input, button {
+    color: white;
+    background-color: gray;
+    border-radius: 8px; 
+}
+::placeholder {
+    color: white;
+    opacity: 1;
+}
